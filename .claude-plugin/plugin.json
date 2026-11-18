@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "analitik-1c-skills",
+  "description": "ЧТЗ на доработку 1С, разбор алгоритма конфигурации с проверкой через MCP, заполнение учебной базы данными",
+  "author": {
+    "name": "edarinsk0509"
+  },
+  "homepage": "https://github.com/edarinsk0509/analitik-1c-skills",
+  "repository": "https://github.com/edarinsk0509/analitik-1c-skills",
+  "version": "1.0.0",
+  "license": "MIT",
+  "keywords": ["1c", "analyst", "tz", "mcp"],
+  "skills": "./skills/"
+}
