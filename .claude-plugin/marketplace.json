@@ -1,7 +1,7 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-marketplace-manifest.json",
   "name": "analitik-1c-skills",
-  "description": "Скиллы аналитика 1С: ЧТЗ, разбор конфигурации, тестовые данные",
+  "description": "Скиллы аналитика 1С: BABOK, ЧТЗ, разбор конфигурации, тестовые данные, порядок в проектах",
   "owner": {
     "name": "edarinsk0509"
   },
@@ -9,7 +9,7 @@
     {
       "name": "analitik-1c-skills",
       "source": "./",
-      "description": "ЧТЗ на доработку 1С, разбор алгоритма конфигурации с проверкой через MCP, заполнение учебной базы данными"
+      "description": "Скиллы аналитика 1С: BABOK, ЧТЗ, разбор конфигурации через MCP, тестовые данные, уборка и реестр проектов"
     }
   ]
 }

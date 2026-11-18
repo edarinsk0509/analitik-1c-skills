@@ -1,6 +1,6 @@
 # ANALITIK-1C-SKILLS
 
-Публичный репозиторий скиллов аналитика 1С для курса HOTELKA-TZ (`C:\project\HOTELKA-TZ`): chtz, razvedka-1c, test-dannye-1c. Ставится плагином в Claude Code и через `npx skills` в Codex. Задачи - KANBAN.md, где мы сейчас - progress.md.
+Публичный репозиторий скиллов аналитика 1С для курса HOTELKA-TZ (`C:\project\HOTELKA-TZ`): chtz, razvedka-1c, test-dannye-1c, babok-1c, uborka, proekt, permissions-audit. Ставится плагином в Claude Code и через `npx skills` в Codex. Задачи - KANBAN.md, где мы сейчас - progress.md.
 
 ## Правила
 - Репозиторий публичный: никаких данных клиентов, имен баз, адресов сервера, паролей. Перед каждым пушем - поиск по этим словам.
