@@ -1,0 +1,13 @@
+{
+  "description": "Скилл anonymize: не дает агенту прочитать исходные файлы, review.csv, .anon/ и *.restored.* (interview-anonymizer, MIT)",
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Read|Grep|Glob|Edit|Write|MultiEdit|NotebookEdit|Bash|PowerShell",
+        "hooks": [
+          { "type": "command", "command": "python \"${CLAUDE_PLUGIN_ROOT}/skills/anonymize/hooks/guard.py\"" }
+        ]
+      }
+    ]
+  }
+}
